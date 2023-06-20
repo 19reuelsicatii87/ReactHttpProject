@@ -1,0 +1,28 @@
+.header {
+    background: #20222B;
+    color: white;
+    overflow: hidden;
+    padding: 16px 0;
+    margin-bottom: 48px;
+}
+
+.indecisionAppbody {
+    background:#333745 ;    
+}
+
+.spacing {
+    margin: 20px;
+}
+
+.primary{
+    color: orange;
+    border: 5px solid red;
+    padding: 20px;
+    margin: 20px;
+}
+
+.content-wrap{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 16px;    
+}

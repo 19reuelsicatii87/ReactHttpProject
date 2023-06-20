@@ -1,0 +1,11 @@
+.header_title {
+    font-size: 32px;
+    margin: 0 0 3px;
+}
+
+.header_subtitle {
+    color: #A5AFD7;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+}

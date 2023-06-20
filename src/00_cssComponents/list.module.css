@@ -1,0 +1,67 @@
+
+.list_header{
+    background: #3C4251;
+    color: #A5AFD7;
+    padding: 16px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.list_options{
+    background: #5b61787a;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    border-bottom: 1px solid #5B6178;
+    padding: 16px 16px;
+}
+
+.list_options a {
+    background: none;
+    color: #A5AFD7;
+    border: none;
+    color: #A5AFD7;
+    padding: 0;
+    font-weight: 500;
+    text-align:right;
+}
+
+.list_form{
+    padding: 16px;
+    background: #5b61787a;
+}
+
+
+.list_form input {
+    color: #A5AFD7;
+    background: #333745;
+    border: none;
+    border-bottom: 3px solid #282b36;
+    flex-grow: 0.95;
+    margin: 0 0 12px 0;
+    padding: 12px;
+}
+
+.list_form button {
+    background-color: #8357c5;
+    border: none;
+    border-bottom: 3px solid #693cad;
+    color: white;
+    padding: 0px 30px;
+}
+
+.list_form p{
+    color: #A5AFD7;
+    font-style: italic;
+}
+
+.list_form_removeAll{
+    color: #A5AFD7;
+    margin: 0;
+    padding: 16px;
+    text-align: center;
+    border-bottom: 1px solid #5B6178;
+    background: #5b61787a;
+}
+
+

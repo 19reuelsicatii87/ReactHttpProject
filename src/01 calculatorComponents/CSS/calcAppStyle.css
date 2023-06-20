@@ -1,0 +1,60 @@
+.Calculator{   
+    margin: 10%;
+    border: 2px solid #3366ff;   
+    box-shadow: 2px 5px 10px 5px grey;
+    border-radius: 5px;    
+}
+
+.Display{
+    background: #3366ff;
+}
+
+
+.Display input{
+    margin: 10px;
+    width: 96%;
+    height: 50px;
+    background: #3366ff;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    font-size: 200%;
+}
+
+.Keypad{
+    margin: 2%;
+    padding: 5%;
+}
+
+.Keypad button{
+    width: 100px;
+    height: 70px;
+    margin: 2px;
+    border: 1px solid #3366ff;   
+    border-radius: 10px;
+    background-color: #e6f0ff;
+    box-shadow: 1px 2px 3px 1px grey;
+    font-size: 150%;
+
+}
+
+.Keypad .operbutton{
+    background-color: #80b3ff;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.Keypad .Equals{
+    width: 100%;
+    height: 70px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: #3366ff;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+
